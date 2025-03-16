@@ -57,7 +57,7 @@ The data preprocessing pipeline consists of three main parts:
   - TF-IDF on customer reviews/social media comments.
 
 #### Exporting Processed Data:
-- Saved as `final_customer_data_[groupNumber].csv`.
+- Saved as `final_customer_data_PDL_6.csv`.
 
 ### Part 3: Data Consistency and Quality Checks
 
@@ -79,7 +79,7 @@ The data preprocessing pipeline consists of three main parts:
 - Selected the top 10 most important features using feature selection techniques.
 
 #### Exporting Final Processed Data:
-- Saved as `final_dataset_ready_[groupNumber].csv`.
+- Saved as `final_dataset_ready_PDL_6.csv`.
 
 ## How to Run the Notebook
 
@@ -112,8 +112,7 @@ drive.mount('/content/drive')
   - `customer_transactions_augmented.csv`
   - `final_customer_data_PLD_6.csv`
   - `final_dataset_ready_PLD_6.csv`
-- **Summary Report (Markdown/PDF):** Overview of preprocessing steps, key insights, and challenges.
-- **5-minute Video Presentation:** Explanation of preprocessing workflow and team contributions.
+- **Demo Video Presentation:** [Click here](https://youtu.be/gbxF_EQLwRc)
 
 ## Summary
 
